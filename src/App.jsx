@@ -8,7 +8,7 @@ import Cart from "./pages/Cart/Cart";
 const App = () => {
   return (
     <div>
-      <Cart />
+      <Home />
     </div>
   );
 }
