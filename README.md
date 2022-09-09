@@ -1,3 +1,6 @@
+![SMszPto](https://user-images.githubusercontent.com/47030714/189358340-8bd5a468-bdca-4672-a963-9851da76deb8.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
